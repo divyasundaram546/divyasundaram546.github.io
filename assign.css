@@ -12,33 +12,34 @@ span {
 
     color:#67A0F5;
 }
-h1{
-    background-image: linear-gradient(#133061,#040B16);
-    padding-right: 30%;
-    font-size: 30px;
-    padding-left: 20%;
-    padding-top: 15px;
-padding-bottom: 18px;
-    margin:0;
-    background-color:#0A1A34;
-    color:white;
-    width: 30%;
-   
+.subhead{
+    font-size: 18px;
+    padding-left: 30px;
 }
-h3{
+.head{
     background-image: linear-gradient(#133061,#040B16);
-    text-align:left;
-    margin: 0px;
-    color:white;
-    background-color:#0A1A34;
-    width:20%;
-    padding-left: 30%;
-    padding-top: 25px;
-padding-bottom: 20px;
-float: right;
+    font-size: 21px;
+    background-color: #0A1A34;
+    color: white;
+    padding: 10px 0;
 }
+.center{
+    
+    max-width: 900px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.center1{
+    max-width: 900px;
+    margin:0 auto;
+}
+
+
 nav {
-padding-left: 20%;
+
 padding-top: 15px;
 padding-bottom: 15px;
     color:#F9E7D9;
