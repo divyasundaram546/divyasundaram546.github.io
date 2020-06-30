@@ -8,6 +8,7 @@
 background-image: url('./green.PNG');
 }
 .head{
+    color:white;
    padding-top: 5px;
    padding-bottom: 5px;
     background-color: darkgreen;
