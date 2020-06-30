@@ -1,0 +1,147 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    font-size: 16px;
+}
+a{
+    text-decoration: none;
+}
+span {
+
+    color:#67A0F5;
+}
+h1{
+    background-image: linear-gradient(#133061,#040B16);
+    padding-right: 30%;
+    font-size: 30px;
+    padding-left: 20%;
+    padding-top: 15px;
+padding-bottom: 18px;
+    margin:0;
+    background-color:#0A1A34;
+    color:white;
+    width: 30%;
+   
+}
+h3{
+    background-image: linear-gradient(#133061,#040B16);
+    text-align:left;
+    margin: 0px;
+    color:white;
+    background-color:#0A1A34;
+    width:20%;
+    padding-left: 30%;
+    padding-top: 25px;
+padding-bottom: 20px;
+float: right;
+}
+nav {
+padding-left: 20%;
+padding-top: 15px;
+padding-bottom: 15px;
+    color:#F9E7D9;
+background-color: #1C478E;
+}
+nav a{
+    padding-right: 25px;
+    color: white;
+   
+}
+h4{
+    border-bottom:2px solid white;
+    font-family:Georgia;
+   color: white;
+   padding-top: 10px;
+   padding-bottom: 10px;
+}
+.main{
+    background-image: linear-gradient(#000000,#15356B);
+    height: 560px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #143264;
+}
+body{
+    height: 100%;
+    background: #143264;
+}
+.sidebar{
+    padding-bottom: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+   margin-left: 20%;
+    width:15% ;
+    text-align-last: left;
+    padding-left: 10px;
+    background-color: #1C478E;
+}
+.sidebar a{
+    color: white;
+    padding-top: 10px;
+}
+.sidebar div{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px dotted white;
+}
+.container{ 
+    border: 7px solid #1C478E;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    padding-top: 10px;
+    margin-right: 50px;
+    margin-left: 50px;
+    width:58%;
+    float: right;
+   background-color: white;
+}
+.image{
+   
+    padding-right: 20px;
+    margin-top: 50px;
+    float: right;
+    margin-right: 40px;
+    padding-bottom: 20px;
+}
+.container1{
+    margin-left: 100px;
+  margin-right: 50px;
+    border:7px solid  #1C478E;
+    padding-top: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+    padding-left: 10px;
+    background-color: white;
+    float:right;
+    width: 58%;
+}
+.para{
+    width:80%;
+}
+.card{
+
+    display:flex;
+}
+.card1{
+    padding-right: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.card2{
+    padding-right: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.card3{
+    padding-right: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.card4{
+    padding-right: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
